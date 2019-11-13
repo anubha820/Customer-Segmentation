@@ -11,4 +11,4 @@ A customer segmentation model based on a sample of retail data. Customers are sp
 ![alt text](https://github.com/anubha820/Customer-Segmentation/blob/master/Model/clusters.png)
 * Best Customers - They are the customers that have made the most purchases and spent the most (have the highest LTV). We can see that many of these customers have purchased multiple products.
 * Worst Customers - All of these customers have made their last purchase over 6 months ago and haven't purchased as many products.
-* Recent Transactors  - These customers are more recent customers, having made purchases in the last 6 months. They haven't purchased that much in terms of quantity and monetary value, but have potential to purchase more.
+* Recent Transactors  - These customers are more recent customers, having made purchases in the last 6 months. They haven't purchased that much in terms of quantity and monetary value, but they have potential to purchase more.
