@@ -1,5 +1,5 @@
 # Customer-Segmentation
-A customer segmentation model based on a sample of retail data. Customers are split into best, recent and worst. The model uses kmeans clustering to determine the segments.
+A customer segmentation model based on a sample of retail data. Customers are split into the following segments: best, recent and worst. The model uses kmeans clustering to determine the segments.
 
 ## Folders:
 * Input Folder: Contains two sample datasets - transactions.csv and customers.csv
